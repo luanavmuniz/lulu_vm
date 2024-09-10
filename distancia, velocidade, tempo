@@ -1,0 +1,7 @@
+distancia = float (input("digite a distancia"))
+velocidade = int (input("digite a velocidade"))
+tempo = velocidade/distancia
+print(tempo)
+
+
+
